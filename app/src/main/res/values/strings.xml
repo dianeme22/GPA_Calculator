@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GPA_Mejiad3_Calculator</string>
+    <string name="gpa_calculator">GPA CALCULATOR</string>
+    <string name="grade_1">GRADE 1:</string>
+    <string name="grade_2">GRADE 2:</string>
+    <string name="grade_3">GRADE 3:</string>
+    <string name="compute_gpa">Compute GPA</string>
+    <string name="gpa">GPA</string>
+    <string name="grade_5">GRADE 5:</string>
+    <string name="grade_4">GRADE 4:</string>
+</resources>
